@@ -398,6 +398,72 @@ Animal Rescue Platform.
 
 ---
 
+---
+
+# ⚡ Fun Facts
+
+```yaml
+Name: Shruti Thakur
+
+Located in: Maharashtra, India
+
+Current Focus:
+  - Artificial Intelligence
+  - Full Stack Development
+  - Cybersecurity
+
+Education:
+  - BE Information Technology
+  - IIT Madras BS (Data Science)
+
+Communities:
+  - GDG On Campus APSIT
+  - IEEE APSIT
+  - ITSA APSIT
+
+Currently Building:
+  - AI Applications
+  - Corporate Websites
+  - Intelligent Automation
+
+Dream:
+  Build technology that positively impacts millions of people.
+```
+
+---
+
+# ☕ Outside of Coding
+
+🎤 Hosting Events
+
+📸 Photography
+
+♟ Chess
+
+✍ Writing
+
+🎭 Creative Design
+
+🚀 Hackathons
+
+---
+
+# 💡 Philosophy
+
+<div align="center">
+
+### "Technology should make life easier, more accessible, and more human."
+
+</div>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=footer"/>
+
+</p>
+
 # 💭 Quote
 
 <div align="center">
