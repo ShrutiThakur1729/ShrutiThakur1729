@@ -329,3 +329,81 @@ Animal Rescue Platform.
 ```
 
 ---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShrutiThakur1729&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShrutiThakur1729&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ShrutiThakur1729&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShrutiThakur1729&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ShrutiThakur1729&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# ⚡ Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/ShrutiThakur1729/ShrutiThakur1729/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:sthakur.shruti@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shruti-t-694467279">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ShrutiThakur1729">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+# 💭 Quote
+
+<div align="center">
+
+> *"The best way to predict the future is to build it."*
+
+</div>
+
+---
