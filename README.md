@@ -161,3 +161,171 @@ Build technology that improves accessibility, education and digital experiences.
 🎤 Host & Event Anchor
 
 ---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🌐 JLS Technologies
+
+Modern corporate website developed for an IT infrastructure & technology solutions company.
+
+### ✨ Highlights
+
+- Responsive UI/UX
+- Modern animations
+- SEO-friendly
+- Accessibility focused
+- Performance optimized
+- Production-ready frontend
+
+**Tech**
+
+`React`
+`TypeScript`
+`TailwindCSS`
+
+---
+
+*"Developed while maintaining confidentiality of proprietary implementation details."*
+
+</td>
+
+<td width="50%">
+
+## 🧠 Pravi
+
+Google Solution Challenge Project
+
+AI-powered accessibility platform designed for neurodiverse users.
+
+### ✨ Features
+
+- Flutter
+- Firebase
+- Gemini AI
+- Voice Interaction
+- Accessibility-first UI
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🌍 TripVista
+
+Community-driven travel platform.
+
+### ✨ Features
+
+- React
+- Firebase
+- Vite
+- Community Posts
+- Travel Discovery
+
+</td>
+
+<td width="50%">
+
+## 🛍 Samhita
+
+Marketplace Assistant for Local Artisans.
+
+### ✨ Features
+
+- AI Recommendations
+- Marketplace
+- Responsive Design
+- Google Gen AI Exchange
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🌸 BloomPath
+
+AI-powered employment platform.
+
+### ✨ Features
+
+- Gemini AI
+- Maps API
+- AI Job Matching
+
+</td>
+
+<td width="50%">
+
+## 🐶 Pawfect
+
+Animal Rescue Platform.
+
+### ✨ Features
+
+- Python
+- Streamlit
+- MySQL
+- Lost & Found
+- Shelter Portal
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🏆 Achievements
+
+🏅 Google Solution Challenge
+
+🏅 Google Gen AI Exchange Hackathon — Semifinalist
+
+🏅 Smart India Hackathon
+
+🏅 GDG TechSprint — Top 15
+
+🥈 APSIT Chess Runner-up
+
+🥈 World Water Day Winner
+
+📖 Published Poet
+
+---
+
+# 🌱 Current Focus
+
+```text
+🧠 Artificial Intelligence
+
+🤖 Agentic AI
+
+☁ AWS Cloud
+
+🔐 Cybersecurity
+
+🌍 Open Source
+
+⚡ Building Better Products
+```
+
+---
