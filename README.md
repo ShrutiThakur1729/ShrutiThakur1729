@@ -1,232 +1,163 @@
-<div align="center">
-
-# Hi there! 👋 I'm Shruti Thakur
-
-### AI Engineer • Full Stack Developer • Cybersecurity Enthusiast
-
-<p>
-Building AI-powered solutions that create meaningful real-world impact.
+<p align="center">
+  <img src="banner.png" width="100%" alt="Shruti Thakur Banner">
 </p>
 
-<p>
-🎓 B.E. Information Technology @ APSIT (CGPA: 9.35) <br>
-🎓 IIT Madras BS in Data Science & Applications
-</p>
-
-</div>
-
----
-
-## 💫 About Me
-
-I'm an Information Technology student passionate about building intelligent, user-focused software.
-
-My interests lie at the intersection of:
-
-- 🤖 Artificial Intelligence
-- 🌐 Full Stack Development
-- ☁️ Cloud Computing
-- 🔐 Cybersecurity
-- ♿ Digital Accessibility
-
-I enjoy participating in hackathons, building products from scratch, and turning ideas into practical solutions that improve people's lives.
-
----
-
-## 🚀 Featured Projects
-
-### 🧠 Pravi — AI Accessibility Platform
-> Google Solution Challenge
-
-An AI-powered accessibility platform designed for neurodiverse users.
-
-**Highlights**
-- Flutter
-- Firebase
-- Google Gemini
-- Voice Interaction
-- Accessible UI
-
----
-
-### 🌍 TripVista
-
-A community-driven thematic travel platform.
-
-**Highlights**
-
-- React
-- Firebase
-- Vite
-- Local Business Discovery
-- Smart Travel Experiences
-
----
-
-### 🐶 Pawfect
-
-Animal Rescue & Adoption Platform
-
-**Highlights**
-
-- Python
-- Streamlit
-- MySQL
-- Lost & Found Module
-- Shelter Management
-
----
-
-### 🛍️ Samhita
-
-AI Marketplace Assistant for Local Artisans
-
-**Highlights**
-
-- AI-powered recommendations
-- Responsive marketplace
-- Modern frontend
-- Hackathon project
-
----
-
-### 🌸 BloomPath
-
-AI platform helping women discover flexible employment opportunities.
-
-Built using:
-
-- Gemini AI
-- Google Maps
-- Intelligent Job Matching
-
----
-
-## 💻 Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge)
-
----
-
-### Frontend
-
-- React
-- Next.js
-- Flutter
-- HTML
-- CSS
-
----
-
-### Backend
-
-- Node.js
-- Express
-- Firebase
-- Supabase
-
----
-
-### Database
-
-- MySQL
-- Firebase
-- Supabase
-
----
-
-### Cloud
-
-- AWS
-- Google Cloud Platform
-
----
-
-### Design
-
-- Figma
-- Canva
-
----
-
-## 🏆 Achievements
-
-🏅 Google Solution Challenge Participant
-
-🏅 Google Gen AI Exchange Hackathon Semifinalist
-
-🏅 Smart India Hackathon Project
-
-🏅 GDG TechSprint Top 15 Team
-
-🏅 Published Poet
-
-🥈 Chess Runner-up
-
-🥈 World Water Day Competition
-
----
-
-## 🌱 Currently Learning
-
-- Agentic AI
-- AWS Bedrock
-- Retrieval-Augmented Generation (RAG)
-- Cybersecurity
-- System Design
-- AI Automation
-
----
-
-## 🤝 Leadership & Community
-
-- Treasurer — ITSA APSIT
-- Literature Head — GDG On Campus APSIT
-- Content Head — IEEE APSIT
-- GDG Cloud Community Days Volunteer
-- Event Host & Anchor
-
----
-
-## 📈 GitHub Stats
+<h1 align="center">
+Hi 👋 I'm Shruti Thakur
+</h1>
+
+<h3 align="center">
+AI Engineer • Full Stack Developer • Cybersecurity Enthusiast
+</h3>
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=700&lines=Building+AI-Powered+Solutions;Flutter+Developer;React+Developer;Hackathon+Builder;Future+Cybersecurity+Researcher;Always+Learning+Something+New"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<a href="https://www.linkedin.com/in/shruti-t-694467279">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sthakur.shruti@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=ShrutiThakur1729&style=for-the-badge"/>
 
 </p>
 
 ---
 
-## 📫 Connect with Me
+# 💫 About Me
 
-📧 Email: sthakur.shruti@gmail.com
+<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3NzcTlpdnR5d2E0dG9uN3M5aWVzZG5wbWtzc2x3bjNja2g2cTV0dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif">
 
-💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+🎓 **B.E. Information Technology** @ APSIT
 
-🌐 Portfolio: Coming Soon
+🎓 **IIT Madras BS** in Data Science & Applications
+
+💜 Passionate about building AI systems that solve real-world problems.
+
+🌱 Exploring Agentic AI, Cloud Computing and Cybersecurity.
+
+🚀 I enjoy participating in hackathons and transforming ideas into production-ready software.
+
+🎯 Goal:
+Build technology that improves accessibility, education and digital experiences.
 
 ---
 
-<div align="center">
+# 🚀 Tech Stack
 
-### ✨ "Building technology that empowers people."
+## Languages
 
-Thanks for stopping by!
+<p>
 
-⭐ Feel free to explore my repositories and connect with me.
+<img src="https://skillicons.dev/icons?i=python"/>
 
-</div>
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=javascript"/>
+
+<img src="https://skillicons.dev/icons?i=c"/>
+
+</p>
+
+## Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<img src="https://skillicons.dev/icons?i=nextjs"/>
+
+<img src="https://skillicons.dev/icons?i=flutter"/>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=tailwind"/>
+
+</p>
+
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+<img src="https://skillicons.dev/icons?i=express"/>
+
+<img src="https://skillicons.dev/icons?i=firebase"/>
+
+<img src="https://skillicons.dev/icons?i=supabase"/>
+
+</p>
+
+## Cloud
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws"/>
+
+<img src="https://skillicons.dev/icons?i=gcp"/>
+
+</p>
+
+## Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=firebase"/>
+
+</p>
+
+## Design & Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=figma"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+```text
+🤖 Agentic AI
+☁ AWS Bedrock
+🔐 Cybersecurity
+📚 System Design
+⚡ AI Automation
+🧠 Retrieval Augmented Generation (RAG)
+```
+
+---
+
+# 🤝 Leadership
+
+💜 Treasurer — ITSA APSIT
+
+💙 Literature Head — GDG On Campus APSIT
+
+⚙️ Content Head — IEEE APSIT
+
+🌍 GDG Cloud Community Days Volunteer
+
+🎤 Host & Event Anchor
+
+---
