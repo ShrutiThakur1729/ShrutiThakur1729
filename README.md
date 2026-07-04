@@ -296,11 +296,7 @@ Animal Rescue Platform.
 
 # 🏆 Achievements
 
-🏅 Google Solution Challenge
-
 🏅 Google Gen AI Exchange Hackathon — Semifinalist
-
-🏅 Smart India Hackathon
 
 🏅 GDG TechSprint — Top 15
 
@@ -394,12 +390,6 @@ Animal Rescue Platform.
 
 ---
 
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=footer"/>
-
-</p>
-
 # 💭 Quote
 
 <div align="center">
@@ -407,5 +397,10 @@ Animal Rescue Platform.
 > *"The best way to predict the future is to build it."*
 
 </div>
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=footer"/>
+
+</p>
 
 ---
