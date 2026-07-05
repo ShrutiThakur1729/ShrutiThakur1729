@@ -54,6 +54,7 @@ Build technology that improves accessibility, education and digital experiences.
 # 🛠 Tech Stack
 
 <table>
+
 <tr>
 
 <td width="33%" valign="top">
@@ -66,9 +67,13 @@ Build technology that improves accessibility, education and digital experiences.
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 
+<br>
+
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+
+<br>
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 
@@ -86,9 +91,13 @@ Build technology that improves accessibility, education and digital experiences.
 
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
 
+<br>
+
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<br>
 
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 
@@ -106,6 +115,8 @@ Build technology that improves accessibility, education and digital experiences.
 
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 
+<br>
+
 <img src="https://img.shields.io/badge/Gemini_AI-8E75FF?style=for-the-badge&logo=google&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=for-the-badge"/>
@@ -118,7 +129,7 @@ Build technology that improves accessibility, education and digital experiences.
 
 <tr>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 <h3 align="center">💻 Languages</h3>
 
@@ -128,6 +139,8 @@ Build technology that improves accessibility, education and digital experiences.
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
+<br>
+
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -136,9 +149,9 @@ Build technology that improves accessibility, education and digital experiences.
 
 </td>
 
-<td colspan="2" valign="top">
+<td width="50%" colspan="2" valign="top">
 
-<h3 align="center">🛠 Tools & Deployment</h3>
+<h3 align="center">🛠 Dev Tools</h3>
 
 <p align="center">
 
@@ -146,19 +159,11 @@ Build technology that improves accessibility, education and digital experiences.
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
+<br>
+
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Firebase_Hosting-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/GitHub_Pages-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 </p>
 
@@ -167,6 +172,18 @@ Build technology that improves accessibility, education and digital experiences.
 </tr>
 
 </table>
+
+<h3 align="center">☁️ Deployment Platforms</h3>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Firebase_Hosting-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+
+</p>
 
 ---
 
@@ -196,7 +213,6 @@ Build technology that improves accessibility, education and digital experiences.
 🎤 Host & Event Anchor
 
 ---
-# 🚀 Featured Projects
 
 # 🚀 Featured Projects
 
