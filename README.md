@@ -163,6 +163,8 @@ Build technology that improves accessibility, education and digital experiences.
 ---
 # 🚀 Featured Projects
 
+# 🚀 Featured Projects
+
 <table>
 <tr>
 
@@ -173,17 +175,17 @@ Build technology that improves accessibility, education and digital experiences.
 <h3 align="center">🌐 JLS Technologies</h3>
 
 <p align="center">
-Production-ready corporate website for an IT Infrastructure & Technology Solutions company.
+Production-ready corporate website for an IT Infrastructure & Technology Solutions company, focused on modern UI, performance, and accessibility.
 </p>
 
 <p align="center">
 
 <a href="https://jlstech.io">
-<img src="https://img.shields.io/badge/🌍_Live_Demo-00C853?style=for-the-badge">
+<img src="https://img.shields.io/badge/🌍_LIVE_DEMO-00C853?style=for-the-badge">
 </a>
 
 <a href="https://github.com/ShrutiThakur1729">
-<img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/📂_SOURCE_CODE-181717?style=for-the-badge&logo=github">
 </a>
 
 </p>
@@ -213,17 +215,17 @@ AWS AI for Bharat Hackathon
 </p>
 
 <p align="center">
-AI-powered multilingual assistant simplifying digital service access through voice automation.
+AI-powered multilingual digital assistant leveraging AWS AI services to simplify digital service access through voice automation and accessibility-first design.
 </p>
 
 <p align="center">
 
 <a href="https://access-bridge-ai.web.app/">
-<img src="https://img.shields.io/badge/🌍_Live_Demo-00C853?style=for-the-badge">
+<img src="https://img.shields.io/badge/🌍_LIVE_DEMO-00C853?style=for-the-badge">
 </a>
 
-<a href="https://github.com/ShrutiThakur1729">
-<img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github">
+<a href="https://github.com/ShrutiThakur1729/access-bridge-ai">
+<img src="https://img.shields.io/badge/📂_SOURCE_CODE-181717?style=for-the-badge&logo=github">
 </a>
 
 </p>
@@ -263,17 +265,17 @@ Google Solution Challenge
 </p>
 
 <p align="center">
-AI-powered accessibility platform for neurodiverse users with voice-enabled interactions.
+AI-powered accessibility platform empowering neurodiverse users through voice-enabled interactions and intelligent assistance.
 </p>
 
 <p align="center">
 
 <a href="#">
-<img src="https://img.shields.io/badge/🌍_Live_Demo-00C853?style=for-the-badge">
+<img src="https://img.shields.io/badge/🌍_LIVE_DEMO-00C853?style=for-the-badge">
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github">
+<a href="https://github.com/ShrutiThakur1729/Pravi">
+<img src="https://img.shields.io/badge/📂_SOURCE_CODE-181717?style=for-the-badge&logo=github">
 </a>
 
 </p>
@@ -303,17 +305,17 @@ Google Gen AI Exchange Hackathon
 </p>
 
 <p align="center">
-AI-powered marketplace assistant helping local artisans reach more customers.
+AI-powered marketplace assistant connecting local artisans with customers through intelligent product discovery and recommendations.
 </p>
 
 <p align="center">
 
 <a href="#">
-<img src="https://img.shields.io/badge/🌍_Live_Demo-00C853?style=for-the-badge">
+<img src="https://img.shields.io/badge/🌍_LIVE_DEMO-00C853?style=for-the-badge">
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github">
+<a href="https://github.com/ShrutiThakur1729/samhita-ai-crafts-connect">
+<img src="https://img.shields.io/badge/📂_SOURCE_CODE-181717?style=for-the-badge&logo=github">
 </a>
 
 </p>
@@ -343,17 +345,21 @@ AI-powered marketplace assistant helping local artisans reach more customers.
 <h3 align="center">🌌 COSMIC Data Fusion</h3>
 
 <p align="center">
-Research platform that unifies fragmented astronomical datasets into a standardized analysis system.
+Code-A-Thon 2.0
+</p>
+
+<p align="center">
+Research platform designed to unify fragmented astronomical datasets into a standardized ecosystem for visualization and scientific analysis.
 </p>
 
 <p align="center">
 
 <a href="https://cosmicdatafusion.lovable.app/">
-<img src="https://img.shields.io/badge/🌍_Live_Demo-00C853?style=for-the-badge">
+<img src="https://img.shields.io/badge/🌍_LIVE_DEMO-00C853?style=for-the-badge">
 </a>
 
 <a href="#">
-<img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/📂_SOURCE_CODE-181717?style=for-the-badge&logo=github">
 </a>
 
 </p>
@@ -366,7 +372,7 @@ Research platform that unifies fragmented astronomical datasets into a standardi
 
 <p align="center">
 
-`Research` • `Data Visualization`
+`Data Visualization` • `Research`
 
 </p>
 
