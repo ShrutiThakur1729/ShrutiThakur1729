@@ -417,62 +417,124 @@ Research platform designed to unify fragmented astronomical datasets into a stan
 
 ---
 
-# 🌱 Currently Learning
+# 📜 Certifications
 
-```text
-🤖 Agentic AI
-☁ AWS Bedrock
-🔐 Cybersecurity
-📚 System Design
-⚡ AI Automation
-🧠 Retrieval Augmented Generation (RAG)
-```
+<details>
+<summary><b>🎓 Professional Certifications (7)</b></summary>
+
+<br>
+
+## ☁️ Cloud & AI
+
+### AWS Data Engineering Virtual Internship
+**AICTE & AWS**
+
+[![View Certificate](https://img.shields.io/badge/View-Certificate-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1W1IgUD3wqeR1dWF63CHV1gxA2WZA_bF4/view?usp=drive_link)
+
+<br>
+
+### Juniper Networks Virtual Internship
+**AICTE & Juniper Networks**
+
+[![View Certificate](https://img.shields.io/badge/View-Certificate-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1PvG6aY1D_8FE9dimrtv6pmnaw9CtH4lg/view?usp=drive_link)
 
 ---
 
-# 🤝 Leadership
+## 🔐 Cybersecurity
 
-💜 Treasurer — ITSA APSIT
+### Ethical Hacking Virtual Internship
+**AICTE**
 
-💙 Literature Head — GDG On Campus APSIT
+[![View Certificate](https://img.shields.io/badge/View-Certificate-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1zC32DXQ7MXpUbq0aqhNUWbOUmwZ5wBdP/view?usp=drive_link)
 
-⚙️ Content Head — IEEE APSIT
+<br>
 
-🌍 GDG Cloud Community Days Volunteer
+### Palo Alto Cybersecurity Virtual Internship
+**AICTE & Palo Alto Networks**
 
-🎤 Host & Event Anchor
+[![View Certificate](https://img.shields.io/badge/View-Certificate-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/13gAuwuzh8BqSWqeXlUCxmdDtkzdhebjK/view?usp=drive_link)
+
+<br>
+
+### Zscaler – Fundamentals of Cybersecurity
+
+[![View Certificate](https://img.shields.io/badge/View-Certificate-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1yPwY6hpPKg76Xz05zpClcU9aRBMs40bZ/view?usp=drive_link)
+
+---
+
+## 💻 Programming & Databases
+
+### NPTEL – Database Management Systems
+**IIT Kharagpur**
+
+[![View Certificate](https://img.shields.io/badge/View-Certificate-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1NabBXc7RvVQoOGSIqbMfpZYeIiz9-Exj/view?usp=drive_link)
+
+<br>
+
+### Python 3.4.3 Training
+**Spoken Tutorial Project • IIT Bombay**
+
+[![View Certificate](https://img.shields.io/badge/View-Certificate-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1tXcnP9F-ka6vkwpI_cjWquJMJn1QR0zP/view?usp=drive_link)
+
+</details>
 
 ---
 
 # 🏆 Achievements
 
-🏅 Google Gen AI Exchange Hackathon — Semifinalist
+🏅 **Google Gen AI Exchange Hackathon** — Semifinalist
 
-🏅 GDG TechSprint — Top 15
+🏆 **GDG TechSprint (Open Innovation)** — Top 15 Team
 
-🥈 APSIT Chess Runner-up
+🚀 **Google Solution Challenge** — Built **Pravi**, an AI-powered accessibility platform
 
-🥈 World Water Day Winner
+☁️ **AWS AI for Bharat Hackathon** — Reached the **Prototype Development Phase** with **AccessBridge AI**
 
-📖 Published Poet
+🌍 **Smart India Hackathon (SIH)** — Institute-Level Project Selection
+
+🥈 **APSIT Chess Tournament** — Runner-up
+
+🌊 **World Water Day Competition** — Runner-up
+
+📖 **Published Poet**
 
 ---
 
-# 🌱 Current Focus
+# 🤝 Leadership & Community
 
-```text
-🧠 Artificial Intelligence
+🎓 **Treasurer** — Information Technology Students' Association (ITSA APSIT)
 
-🤖 Agentic AI
+💙 **Literature Head** — GDG On Campus APSIT
 
-☁ AWS Cloud
+⚙️ **Content Head** — IEEE APSIT Student Branch
 
-🔐 Cybersecurity
+☁️ **Volunteer** — GDG Cloud Community Days Mumbai
 
-🌍 Open Source
+🎤 **Event Host & Anchor** — Technical & Community Events
 
-⚡ Building Better Products
-```
+---
+
+# 🌱 Currently Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Agentic_AI-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAG-00C853?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/System_Design-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Cybersecurity-E11D48?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI_Automation-8E75FF?style=for-the-badge"/>
+
+</p>
+
+---
 
 ---
 
