@@ -53,6 +53,8 @@ Build technology that improves accessibility, education and digital experiences.
 
 # 🛠 Tech Stack
 
+# 🛠 Tech Stack
+
 <table>
 
 <tr>
@@ -113,11 +115,15 @@ Build technology that improves accessibility, education and digital experiences.
 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
 
+<br>
+
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 
 <br>
 
 <img src="https://img.shields.io/badge/Gemini_AI-8E75FF?style=for-the-badge&logo=google&logoColor=white"/>
+
+<br>
 
 <img src="https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=for-the-badge"/>
 
@@ -129,7 +135,7 @@ Build technology that improves accessibility, education and digital experiences.
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 <h3 align="center">💻 Languages</h3>
 
@@ -149,7 +155,7 @@ Build technology that improves accessibility, education and digital experiences.
 
 </td>
 
-<td width="50%" colspan="2" valign="top">
+<td width="33%" valign="top">
 
 <h3 align="center">🛠 Dev Tools</h3>
 
@@ -169,22 +175,29 @@ Build technology that improves accessibility, education and digital experiences.
 
 </td>
 
-</tr>
+<td width="33%" valign="top">
 
-</table>
-
-<h3 align="center">☁️ Deployment Platforms</h3>
+<h3 align="center">☁️ Deployment</h3>
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
 
+<br>
+
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+
+<br>
 
 <img src="https://img.shields.io/badge/Firebase_Hosting-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 
 </p>
 
+</td>
+
+</tr>
+
+</table>
 ---
 
 # 🌱 Currently Learning
