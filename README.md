@@ -164,134 +164,220 @@ Build technology that improves accessibility, education and digital experiences.
 
 # 🚀 Featured Projects
 
-<table>
-<tr>
-
-<td width="50%">
-
-## 🌐 JLS Technologies
-
-Modern corporate website developed for an IT infrastructure & technology solutions company.
-
-### ✨ Highlights
-
-- Responsive UI/UX
-- Modern animations
-- SEO-friendly
-- Accessibility focused
-- Performance optimized
-- Production-ready frontend
-
-**Tech**
-
-`React`
-`TypeScript`
-`TailwindCSS`
-
----
-
-*"Developed while maintaining confidentiality of proprietary implementation details."*
-
-</td>
-
-<td width="50%">
-
-## 🧠 Pravi
-
-Google Solution Challenge Project
-
-AI-powered accessibility platform designed for neurodiverse users.
-
-### ✨ Features
-
-- Flutter
-- Firebase
-- Gemini AI
-- Voice Interaction
-- Accessibility-first UI
-
-</td>
-
-</tr>
-</table>
-
----
+# 🚀 Featured Projects
 
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-## 🌍 TripVista
+<img src="jlstech.png" width="100%"/>
 
-Community-driven travel platform.
+<h3 align="center">🌐 JLS Technologies</h3>
 
-### ✨ Features
+<p align="center">
+Production-ready corporate website for an IT Infrastructure & Technology Solutions company.
+</p>
 
-- React
-- Firebase
-- Vite
-- Community Posts
-- Travel Discovery
+<p align="center">
+
+<a href="https://jlstech.io">
+<img src="https://img.shields.io/badge/🌍_Live_Demo-00C853?style=for-the-badge">
+</a>
+
+<a href="https://github.com/ShrutiThakur1729">
+<img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github">
+</a>
+
+</p>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,ts,tailwind"/>
+
+</p>
+
+<p align="center">
+
+`TanStack` • `Cloudflare`
+
+</p>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-## 🛍 Samhita
+<img src="accessbridge.png" width="100%"/>
 
-Marketplace Assistant for Local Artisans.
+<h3 align="center">🤖 AccessBridge AI</h3>
 
-### ✨ Features
+<p align="center">
+AWS AI for Bharat Hackathon
+</p>
 
-- AI Recommendations
-- Marketplace
-- Responsive Design
-- Google Gen AI Exchange
+<p align="center">
+AI-powered multilingual assistant simplifying digital service access through voice automation.
+</p>
+
+<p align="center">
+
+<a href="https://access-bridge-ai.web.app/">
+<img src="https://img.shields.io/badge/🌍_Live_Demo-00C853?style=for-the-badge">
+</a>
+
+<a href="https://github.com/ShrutiThakur1729">
+<img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github">
+</a>
+
+</p>
+
+<p align="center">
+
+🏆 Prototype Development Phase
+
+</p>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,react,ts"/>
+
+</p>
+
+<p align="center">
+
+`Amazon Bedrock` • `Bhashini`
+
+</p>
 
 </td>
 
 </tr>
-</table>
 
----
-
-<table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-## 🌸 BloomPath
+<img src="pravi.png" width="100%"/>
 
-AI-powered employment platform.
+<h3 align="center">🧠 Pravi</h3>
 
-### ✨ Features
+<p align="center">
+Google Solution Challenge
+</p>
 
-- Gemini AI
-- Maps API
-- AI Job Matching
+<p align="center">
+AI-powered accessibility platform for neurodiverse users with voice-enabled interactions.
+</p>
+
+<p align="center">
+
+<a href="#">
+<img src="https://img.shields.io/badge/🌍_Live_Demo-00C853?style=for-the-badge">
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github">
+</a>
+
+</p>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,firebase"/>
+
+</p>
+
+<p align="center">
+
+`Gemini AI`
+
+</p>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-## 🐶 Pawfect
+<img src="samhita.png" width="100%"/>
 
-Animal Rescue Platform.
+<h3 align="center">🛍 Samhita</h3>
 
-### ✨ Features
+<p align="center">
+Google Gen AI Exchange Hackathon
+</p>
 
-- Python
-- Streamlit
-- MySQL
-- Lost & Found
-- Shelter Portal
+<p align="center">
+AI-powered marketplace assistant helping local artisans reach more customers.
+</p>
+
+<p align="center">
+
+<a href="#">
+<img src="https://img.shields.io/badge/🌍_Live_Demo-00C853?style=for-the-badge">
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github">
+</a>
+
+</p>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,firebase"/>
+
+</p>
+
+<p align="center">
+
+`Gemini AI`
+
+</p>
 
 </td>
 
 </tr>
-</table>
 
+<tr>
+
+<td colspan="2">
+
+<img src="cosmic.png" width="100%"/>
+
+<h3 align="center">🌌 COSMIC Data Fusion</h3>
+
+<p align="center">
+Research platform that unifies fragmented astronomical datasets into a standardized analysis system.
+</p>
+
+<p align="center">
+
+<a href="https://cosmicdatafusion.lovable.app/">
+<img src="https://img.shields.io/badge/🌍_Live_Demo-00C853?style=for-the-badge">
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github">
+</a>
+
+</p>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+</p>
+
+<p align="center">
+
+`Research` • `Data Visualization`
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
 ---
 
 # 🏆 Achievements
