@@ -624,19 +624,71 @@ Building AI-powered workflows, intelligent assistants, and productivity solution
 
 ---
 
-# ☕ Outside of Coding
+# ☕ Beyond Code
 
-🎤 Hosting Events
+<table>
 
-📸 Photography
+<tr>
 
-♟ Chess
+<td width="50%">
 
-✍ Writing
+### 🎤 Event Host
 
-🎭 Creative Design
+Keeping audiences awake one tech event at a time.
 
-🚀 Hackathons
+</td>
+
+<td width="50%">
+
+### 📸 Photography
+
+Collecting sunsets, street shots, and memories.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### ♟️ Chess
+
+Occasionally sacrificing queens for "creative strategies."
+
+</td>
+
+<td>
+
+### ✍️ Writing
+
+Sometimes it's code, sometimes it's poetry.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### 🎭 Creative Design
+
+Because good ideas deserve good design.
+
+</td>
+
+<td>
+
+### 🚀 Hackathons
+
+Powered by coffee, curiosity, and 2 AM debugging.
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
