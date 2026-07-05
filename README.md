@@ -161,9 +161,6 @@ Build technology that improves accessibility, education and digital experiences.
 🎤 Host & Event Anchor
 
 ---
-
-# 🚀 Featured Projects
-
 # 🚀 Featured Projects
 
 <table>
