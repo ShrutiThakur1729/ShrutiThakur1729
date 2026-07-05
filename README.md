@@ -516,25 +516,63 @@ Research platform designed to unify fragmented astronomical datasets into a stan
 
 # 🌱 Currently Learning
 
-<p align="center">
+<table>
+<tr>
 
-<img src="https://img.shields.io/badge/Agentic_AI-7C3AED?style=for-the-badge"/>
+<td width="33%" valign="top">
 
-<img src="https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge"/>
+### 🤖 Agentic AI
 
-<img src="https://img.shields.io/badge/RAG-00C853?style=for-the-badge"/>
+Building intelligent agents capable of reasoning, planning, and autonomous decision-making.
 
-<br><br>
+</td>
 
-<img src="https://img.shields.io/badge/System_Design-2563EB?style=for-the-badge"/>
+<td width="33%" valign="top">
 
-<img src="https://img.shields.io/badge/Cybersecurity-E11D48?style=for-the-badge"/>
+### ☁️ AWS Bedrock
 
-<img src="https://img.shields.io/badge/AI_Automation-8E75FF?style=for-the-badge"/>
+Exploring foundation models, generative AI workflows, and enterprise AI applications.
 
-</p>
+</td>
 
----
+<td width="33%" valign="top">
+
+### 🧠 RAG
+
+Implementing Retrieval-Augmented Generation for more accurate and context-aware AI systems.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" valign="top">
+
+### 🏗️ System Design
+
+Learning scalable architectures, distributed systems, and backend design patterns.
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🔐 Cybersecurity
+
+Strengthening knowledge of secure software development, cloud security, and ethical hacking.
+
+</td>
+
+<td width="33%" valign="top">
+
+### ⚡ AI Automation
+
+Building AI-powered workflows, intelligent assistants, and productivity solutions.
+
+</td>
+
+</tr>
+</table>
 
 ---
 
