@@ -34,20 +34,22 @@ AI Engineer • Full Stack Developer • Cybersecurity Enthusiast
 
 # 💫 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3NzcTlpdnR5d2E0dG9uN3M5aWVzZG5wbWtzc2x3bjNja2g2cTV0dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif">
+<img align="right" width="320" alt="Developer Illustration"
+src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
 
 🎓 **B.E. Information Technology** @ APSIT
 
 🎓 **IIT Madras BS** in Data Science & Applications
 
-💜 Passionate about building AI systems that solve real-world problems.
+💜 Passionate about building AI-powered solutions that solve real-world problems.
 
-🌱 Exploring Agentic AI, Cloud Computing and Cybersecurity.
+🚀 Building full-stack applications with a focus on accessibility, AI, and cloud technologies.
 
-🚀 I enjoy participating in hackathons and transforming ideas into production-ready software.
+🌱 Currently exploring **Agentic AI**, **Cybersecurity**, and **AWS Cloud**.
 
-🎯 Goal:
-Build technology that improves accessibility, education and digital experiences.
+🎯 **Mission:** Build technology that creates meaningful real-world impact.
+
+☕ Fun fact: Curiosity doesn't kill the cat—it builds the engineer.
 
 ---
 # 🛠 Tech Stack
