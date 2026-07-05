@@ -51,48 +51,121 @@ Build technology that improves accessibility, education and digital experiences.
 
 ---
 
-# 🚀 Tech Stack
+# 🛠 Tech Stack
 
 <table>
 <tr>
 
-<td align="center" width="25%">
+<td width="33%" valign="top">
 
-### 💻 Languages
+<h3 align="center">🎨 Frontend</h3>
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,c"/>
+<p align="center">
 
-</td>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
-<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 
-### 🎨 Frontend
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 
-</td>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 
-<td align="center" width="25%">
-
-### ⚙️ Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mysql,supabase"/>
+</p>
 
 </td>
 
-<td align="center" width="25%">
+<td width="33%" valign="top">
 
-### ☁️ AI & Cloud
+<h3 align="center">⚙️ Backend & Database</h3>
 
-<img src="https://skillicons.dev/icons?i=aws,gcp"/>
+<p align="center">
 
-<br><br>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Gemini_AI-8E75FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3 align="center">🤖 AI & Cloud</h3>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Gemini_AI-8E75FF?style=for-the-badge&logo=google&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=for-the-badge"/>
+
+</p>
 
 </td>
 
 </tr>
+
+<tr>
+
+<td width="33%" valign="top">
+
+<h3 align="center">💻 Languages</h3>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+
+</p>
+
+</td>
+
+<td colspan="2" valign="top">
+
+<h3 align="center">🛠 Tools & Deployment</h3>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Firebase_Hosting-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/GitHub_Pages-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</p>
+
+</td>
+
+</tr>
+
 </table>
 
 ---
