@@ -53,85 +53,47 @@ Build technology that improves accessibility, education and digital experiences.
 
 # 🚀 Tech Stack
 
-## Languages
+<table>
+<tr>
 
-<p>
+<td align="center" width="25%">
 
-<img src="https://skillicons.dev/icons?i=python"/>
+### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=java"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,c"/>
 
-<img src="https://skillicons.dev/icons?i=javascript"/>
+</td>
 
-<img src="https://skillicons.dev/icons?i=c"/>
+<td align="center" width="25%">
 
-</p>
+### 🎨 Frontend
 
-## Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind"/>
 
-<p>
+</td>
 
-<img src="https://skillicons.dev/icons?i=react"/>
+<td align="center" width="25%">
 
-<img src="https://skillicons.dev/icons?i=nextjs"/>
+### ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=flutter"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mysql,supabase"/>
 
-<img src="https://skillicons.dev/icons?i=html"/>
+</td>
 
-<img src="https://skillicons.dev/icons?i=css"/>
+<td align="center" width="25%">
 
-<img src="https://skillicons.dev/icons?i=tailwind"/>
+### ☁️ AI & Cloud
 
-</p>
+<img src="https://skillicons.dev/icons?i=aws,gcp"/>
 
-## Backend
+<br><br>
 
-<p>
+<img src="https://img.shields.io/badge/Gemini_AI-8E75FF?style=flat-square"/>
 
-<img src="https://skillicons.dev/icons?i=nodejs"/>
+</td>
 
-<img src="https://skillicons.dev/icons?i=express"/>
-
-<img src="https://skillicons.dev/icons?i=firebase"/>
-
-<img src="https://skillicons.dev/icons?i=supabase"/>
-
-</p>
-
-## Cloud
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=aws"/>
-
-<img src="https://skillicons.dev/icons?i=gcp"/>
-
-</p>
-
-## Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://skillicons.dev/icons?i=firebase"/>
-
-</p>
-
-## Design & Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=figma"/>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-</p>
+</tr>
+</table>
 
 ---
 
@@ -381,6 +343,7 @@ Research platform designed to unify fragmented astronomical datasets into a stan
 </tr>
 
 </table>
+
 ---
 
 # 🏆 Achievements
