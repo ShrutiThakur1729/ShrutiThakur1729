@@ -217,10 +217,6 @@ Production-ready corporate website for an IT Infrastructure & Technology Solutio
 <img src="https://img.shields.io/badge/🌍_LIVE_DEMO-00C853?style=for-the-badge">
 </a>
 
-<a href="https://github.com/ShrutiThakur1729">
-<img src="https://img.shields.io/badge/📂_SOURCE_CODE-181717?style=for-the-badge&logo=github">
-</a>
-
 </p>
 
 <p align="center">
