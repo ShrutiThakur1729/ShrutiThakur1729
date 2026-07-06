@@ -339,7 +339,7 @@ AI-powered marketplace assistant connecting local artisans with customers throug
 
 <p align="center">
 
-<a href="#">
+<a href="https://samhita-ai.netlify.app/">
 <img src="https://img.shields.io/badge/🌍_LIVE_DEMO-00C853?style=for-the-badge">
 </a>
 
