@@ -347,6 +347,12 @@ AI-powered marketplace assistant connecting local artisans with customers throug
 <img src="https://img.shields.io/badge/📂_SOURCE_CODE-181717?style=for-the-badge&logo=github">
 </a>
 
+<p align="center">
+
+🏆 Prototype Development Phase
+
+</p>
+
 </p>
 
 <p align="center">
