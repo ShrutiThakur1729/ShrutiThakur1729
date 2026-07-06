@@ -294,12 +294,12 @@ Google Solution Challenge
 </p>
 
 <p align="center">
-AI-powered accessibility platform empowering neurodiverse users through voice-enabled interactions and intelligent assistance.
+AI-powered accessibility platform empowering neurodiverse users through interactive dashboard and intelligent assistance.
 </p>
 
 <p align="center">
 
-<a href="#">
+<a href="https://pravi-ai.netlify.app/">
 <img src="https://img.shields.io/badge/🌍_LIVE_DEMO-00C853?style=for-the-badge">
 </a>
 
