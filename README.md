@@ -349,7 +349,7 @@ AI-powered marketplace assistant connecting local artisans with customers throug
 
 <p align="center">
 
-🏆 Prototype Development Phase
+🏆 Semi-Finalist
 
 </p>
 
