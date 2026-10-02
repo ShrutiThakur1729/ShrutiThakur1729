@@ -510,7 +510,7 @@ Research platform designed to unify fragmented astronomical datasets into a stan
 
 ⚙️ **Content Head** — IEEE APSIT Student Branch
 
-☁️ **Volunteer** — GDG Cloud Community Days Mumbai
+☁️ **Core Team Member** — Google Developers Group Mumbai
 
 🎤 **Event Host & Anchor** — Technical & Community Events
 
